@@ -25,5 +25,6 @@ Clustering results(Sequentia(left)l and parallel(right))
 
 To see results clearly open Results.pdf 
 
-Link to git repository:[https://github.com/divyansh-123/K-means-based-clustering-using-pyspark/blob/main/README. md](https://github.com/divyansh-123/K-means-based-clustering-using-pyspark/blob/main/README.md)
+Link to git repository:
+[https://github.com/Kanishk-Menaria/K-Means-Based-Clustering-Using-PySpark](https://github.com/Kanishk-Menaria/K-Means-Based-Clustering-Using-PySpark)
 
